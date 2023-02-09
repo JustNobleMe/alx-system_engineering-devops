@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la USER.[[:digit:]]
+ls -lna
