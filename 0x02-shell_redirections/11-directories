@@ -1,2 +1,2 @@
 #!/bin/bah
-find . -type d | wc -l
+find . find . -type d | wc -l
